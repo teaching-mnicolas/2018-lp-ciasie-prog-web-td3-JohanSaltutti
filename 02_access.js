@@ -1,5 +1,5 @@
 describe ("Properties access", function() {
-  let warrior;
+  let warrior, Character;
 
   beforeEach(function() {
     Character = function() {};
